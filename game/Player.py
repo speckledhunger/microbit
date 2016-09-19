@@ -1,6 +1,7 @@
 from microbit import *
 
 import random
+import radio
 
 radio.on()
 
