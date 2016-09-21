@@ -157,31 +157,20 @@ while True:
     display.set_pixel(enemy_x_core,shot_y,6)
 
     message = radio.receive()
+    
     if message == 'shot':
         shot_y = shot_y + 1
 
-        
-
     if message == 'reset':
-
         shot_y = 1
 
-        
-
     if running_time() > 30000 and game_over == 0:
-
         display.clear()
-
         display.scroll("YOU WON, SWITCH MICRO:BITS WITH YOUR FRIEND TO LET THEM PLAY AS YOU TRY TO DEFEAT THEM")
 
-        
-
     if shot_y == 4 and player_x == enemy_x_core:
-
         display.clear()
-
         display.scroll("GAME OVER")
-
         game_over = 1
 
         
