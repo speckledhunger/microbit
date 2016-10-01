@@ -115,35 +115,12 @@ while True:
     if letter == 25:
         display.show(Y)
 
-
-
-
-
-
-
     if letter == 26:
-
-
-
         display.show(Z)
 
-
-
-        
-
-
-
     if letter == 26 and button_a.is_pressed():
-
-
-
         letter = 0
 
-        
-
     if letter == 1 and button_b.is_pressed():
-
-        
-
         letter = 27
 
