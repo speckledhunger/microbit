@@ -42,102 +42,30 @@ while True:
 
     if letter == 1:
         display.show(A)
-
-
-
         
-
-
-
     if letter == 2:
-
-
-
         display.show(B)
 
-
-
-
-
-
-
     if letter == 3:
-
-
-
         display.show(C)
 
-
-
-        
-
-
-
     if letter == 4:
-
-
-
         display.show(D)
 
-
-
-        
-
-
-
     if letter == 5:
-
-
-
         display.show(E)
 
-
-
-        
-
-
-
     if letter == 6:
-
-
-
         display.show(F)
 
-
-
-
-
-
-
     if letter == 7:
-
-
-
         display.show(G)
 
-
-
-        
-
-
-
     if letter == 8:
-
-
-
         display.show(H)
 
-
-
-        
-
-
-
     if letter == 9:
-
-
-
-         display.show(I)
+        display.show(I)
 
 
 
