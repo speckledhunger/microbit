@@ -34,6 +34,13 @@ Y = Image("50005:05050:00500:00500:00500")
 Z = Image("55550:00500:05000:50000:55550")																				
 
 while True:
+    
+    if pin0.is_touched():
+        display.off()
+        
+    if pin1.is_touched():
+        display.on()
+        
     if button_a.was_pressed():
         letter = letter + 1
 
