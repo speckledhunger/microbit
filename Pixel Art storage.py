@@ -67,196 +67,52 @@ while True:
     if letter == 9:
         display.show(I)
 
-
-
-        
-
-
-
     if letter == 10:
-
-
-
         display.show(J)
-
-
-
-
-
-
-
+        
     if letter == 11:
-
-
-
         display.show(K)
 
-
-
-        
-
-
-
     if letter == 12:
-
-
-
         display.show(L)
 
-
-
-        
-
-
-
     if letter == 13:
-
-
-
         display.show(M)
-
-
-
         
-
-
-
     if letter == 14:
-
-
-
         display.show(N)
 
-
-
-
-
-
-
     if letter == 15:
-
-
-
         display.show(O)
 
-
-
-        
-
-
-
     if letter == 16:
-
-
-
         display.show(P)
 
-
-
-        
-
-
-
     if letter == 17:
-
-
-
         display.show(Q)
 
-
-
-
-
-
-
     if letter == 18:
-
-
-
         display.show(R)
 
-
-
-        
-
-
-
     if letter == 19:
-
-
-
         display.show(S)
 
-
-
-        
-
-
-
     if letter == 20:
-
-
-
         display.show(T)
 
-
-
-        
-
-
-
     if letter == 21:
-
-
-
         display.show(U)
-
-
-
-
-
-
-
+        
     if letter == 22:
-
-
-
         display.show(V)
 
-
-
-        
-
-
-
     if letter == 23:
-
-
-
         display.show(W)
 
-
-
-        
-
-
-
     if letter == 24:
-
-
-
         display.show(X)
 
-
-
-        
-
-
-
     if letter == 25:
-
-
-
         display.show(Y)
 
 
