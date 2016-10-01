@@ -172,14 +172,3 @@ while True:
         display.clear()
         display.scroll("GAME OVER")
         game_over = 1
-
-        
-
-    
-
-  
-
-
-    
-
-    
