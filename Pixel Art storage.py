@@ -123,4 +123,3 @@ while True:
 
     if letter == 1 and button_b.is_pressed():
         letter = 27
-
