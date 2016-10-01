@@ -37,6 +37,3 @@ while True:
         display.set_pixel(2,4,0)
         display.set_pixel(3,4,6)
         display.set_pixel(4,4,6)
-        
-
-        
